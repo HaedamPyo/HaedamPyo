@@ -5,13 +5,22 @@
 
 
 **🛠️ Tech Stack**
+---
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 
-**📜 Liscenses**
-- 빅데이터분석기사 / SQLD / ADsP
+
+**📜 Licenses**
+---
+
+- 빅데이터분석기사(2026.07)
+- SQLD(2026.03)
+- ADsP(2026.03)
 
 **📫 학습 기록**
-- [learning-journey 저장소](저장소 링크)
+---
+
+- [learning-journey](https://github.com/HaedamPyo/learning-journey)
